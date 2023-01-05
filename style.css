@@ -6,3 +6,27 @@ body {
     background-color:aquamarine;
 
   }
+  .nav-link{
+    display: inline-block;
+}
+
+.card .card-img-top{
+  height: 15vh;
+  width: 15vw;
+}
+.btn.btn-primary.btn-lg.btn-block{
+ margin: 0px; 
+
+}
+
+#pink{
+margin-top: 20px;
+}
+
+#AF1{
+  margin-top: 0px;
+}
+
+#velvet{
+  margin-top: 20px;
+}
