@@ -2,10 +2,10 @@ body {
     background-color: lightblue;
   }
   
-  #navbarNavDropdown {
-    background-color:aquamarine;
-
+  nav{
+    margin-top: 0px;
   }
+
   .nav-link{
     display: inline-block;
 }
@@ -29,4 +29,31 @@ margin-top: 20px;
 
 #velvet{
   margin-top: 20px;
+}
+
+ .text-above{
+  text-align: center;
+  color: white;
+  margin-bottom: 50px;
+}
+.mb-3{
+  max-width: 700px;
+  margin: auto;
+}
+
+.btn{
+  padding-left: 300px;
+  padding-right: 300px;
+  margin: 0 auto;
+  display: block;
+  
+}
+
+.text p{
+  float: right;
+ 
+}
+  
+.img-bel-air{
+  width: ;
 }
