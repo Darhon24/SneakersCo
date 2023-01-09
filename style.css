@@ -1,6 +1,6 @@
-body {
+/* body {
     background-color: lightblue;
-  }
+  } */
   
   nav{
     margin-top: 0px;
@@ -19,7 +19,9 @@ body {
 
 }
 
-#pink{
+
+
+/* #pink{
 margin-top: 20px;
 }
 
@@ -29,18 +31,23 @@ margin-top: 20px;
 
 #velvet{
   margin-top: 20px;
-}
+} */
 
  .text-above{
   text-align: center;
   color: white;
   margin-bottom: 50px;
+  margin-top: 150px;
 }
 .mb-3{
+  position: relative;
   max-width: 700px;
-  margin: auto;
+  
+  
 }
 
+
+  
 .btn{
   padding-left: 300px;
   padding-right: 300px;
@@ -53,7 +60,11 @@ margin-top: 20px;
   float: right;
  
 }
+
+.text-content{
+  margin-top: 40px;
+}
   
-.img-bel-air{
-  width: ;
+.placeorder{
+  text-align: center;
 }
